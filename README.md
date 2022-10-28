@@ -28,7 +28,7 @@ It is used in medical data classification.
 
 It can be used in real-time predictions because Naïve Bayes Classifier is an eager learner.
 
-It is used in Text classification such as Spam filtering and Sentiment analysis
+It is used in Text classification such as Spam filtering and Sentiment analysis.
 
 
 ## Libraries Imported
