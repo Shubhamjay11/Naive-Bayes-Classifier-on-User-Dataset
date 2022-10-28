@@ -16,10 +16,19 @@ It can be used for Binary as well as Multi-class Classifications.
 It performs well in Multi-class predictions as compared to the other Algorithms.
 It is the most popular choice for text classification problems.
 
-## Disadvantages of Naïve Bayes Classifier:
+## Disadvantages of Naïve Bayes Classifier:\
 
 Naive Bayes assumes that all features are independent or unrelated, so it cannot learn the relationship between features.
 
+## Applications of Naïve Bayes Classifier
+
+It is used for Credit Scoring.
+
+It is used in medical data classification.
+
+It can be used in real-time predictions because Naïve Bayes Classifier is an eager learner.
+
+It is used in Text classification such as Spam filtering and Sentiment analysis
 
 
 ## Libraries Imported
